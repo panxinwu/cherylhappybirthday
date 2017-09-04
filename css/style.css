@@ -37,7 +37,7 @@ body {
 
 #lara_archer{
 	width: 300px;
-	height: 200px;
+	height: auto;
 	-vendor-animation-duration: 3s;
   -vendor-animation-delay: 2s;
   margin-top: 2em;
